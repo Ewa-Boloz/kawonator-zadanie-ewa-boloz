@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_cleaning_the_steam_wand_and_frothing_attachment">
-    <title>CLEANING THE <keyword keyref="g_steam_wand"/> AND <keyword keyref="g_frothing_att"/></title>
+    <title>CLEANING THE <keyword keyref="g_steam_wand"/> AND <keyword keyref="g_frothing_att"
+        /></title>
     <shortdesc/>
     <taskbody>
         <context>
